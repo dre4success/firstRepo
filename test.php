@@ -4,4 +4,6 @@
 	echo phpinfo();
 			
 			echo "This is for git";
+
+			echo "Hello PEEPS";
 ?>
